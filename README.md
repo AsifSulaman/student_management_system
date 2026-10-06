@@ -2,6 +2,8 @@
 
 A small web app for managing students, courses and GPA at a fictional university. Built with plain HTML, CSS and JavaScript to practice core web development skills. No installs, no server, no frameworks.
 
+FOR LIVE DEMO : https://asifsulaman.github.io/student_management_system/
+
 > All names and records are made up. Data is stored only in your own browser.
 
 ## Features
